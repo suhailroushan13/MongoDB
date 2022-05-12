@@ -1,4 +1,4 @@
-# ![Logo](docs/leaf.svg) MongoDB README
+# ![Logo](leaf.svg) MongoDB README
 
 Welcome to MongoDB!
 # MongoDB
