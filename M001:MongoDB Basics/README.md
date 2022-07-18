@@ -4,7 +4,7 @@
 
 **LAB’s : Chapter 1: What is MongoDB?**
 
-\1. Quiz: What is MongoDB?
+1. Quiz: What is MongoDB?
 
 Why is MongoDB a NoSQL database?
 
