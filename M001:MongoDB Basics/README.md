@@ -101,7 +101,7 @@ This is correct
 This is correct.
 
 
-
+<hr>
 
 
 **LAB’s : Chapter 2: Importing, Exporting, and Querying Data**
@@ -213,7 +213,7 @@ There are other means of interacting with the database, such as through the Atla
 visually supportive than the mongo shell.
 
 
-
+<hr>
 
 
 **LAB’s : Chapter 3: Creating and Manipulating Documents**
